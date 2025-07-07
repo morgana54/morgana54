@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🙌 Hi :)
+ 
+I'm Kuba, a TypeScript Fullstack Developer. 
 
-<!--
-**morgana54/morgana54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fav stack is: React 💜 + Node 💚.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=morgana54)](https://git.io/streak-stats)
+
+## 🎖️ Certifications
+
+[![AWS Certified Cloud Practitioner](./aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/a1a1e99c-67f3-459f-a966-7ca4323f5bfe)
+[![AWS Certified Cloud Practitioner](./aws-partner-technical-accredited.png)](https://www.credly.com/badges/ed9113fb-941b-49cf-8809-d2bd0a29d612)
+
+## 🐻 Little game studio I'm a part of
+
+https://bodgingbear.dev
+
+## 📫 Let’s connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jakub-pietrzak-493b03209/)  
+- 📧 jakubpietrzak59@gmail.com
