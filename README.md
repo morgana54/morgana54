@@ -4,10 +4,6 @@ I'm Kuba, a TypeScript Fullstack Developer.
 
 Fav stack is: React 💜 + Node 💚.
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=morgana54)](https://git.io/streak-stats)
-
 ## 🎖️ Certifications
 
 [![AWS Certified Cloud Practitioner](./aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/a1a1e99c-67f3-459f-a966-7ca4323f5bfe)
